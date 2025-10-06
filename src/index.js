@@ -6,3 +6,4 @@ module.exports = sayHi
 
 // The new comment
 // second commit
+// trivial edit
